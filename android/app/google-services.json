@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760361783559",
+    "project_id": "authapp-fe35c",
+    "storage_bucket": "authapp-fe35c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760361783559:android:ba3fd1e58e333782ccb5a2",
+        "android_client_info": {
+          "package_name": "com.example.travelvietnam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY_tYf8oO3nBo0_Y2LUYT_k_LAV5ck-CQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
