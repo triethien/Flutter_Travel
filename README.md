@@ -1,6 +1,9 @@
 # travelvietnam
-
-A new Flutter project.
+Dự án Du Lịch Đó Đây
+Được thực hiện bởi 3 thành viên
+Nguyễn Hiền Triết
+Bùi Quốc Triệu
+Hứa Hoàng Tiến Đạt
 
 ## Getting Started
 
